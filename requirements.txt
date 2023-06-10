@@ -1,0 +1,5 @@
+Flask==1.1.4
+Pillow==8.2.0
+matplotlib==3.4.2
+MarkupSafe==2.0.1
+
